@@ -1,0 +1,9 @@
+Description-US: RW Octane Tools Bar
+
+Update by Rookie W
+Wechat£ºwyx769867389
+Email:769867389@qq.com
+
+
+
+Setting: Click = Setting     Ctrl+Click = Setting & Set Renderer to Octane
